@@ -1,3 +1,5 @@
+
+
 div {
   border: 20px solid #000; /* this is short hand for setting
                             the border's width, its type, and color */
@@ -9,3 +11,26 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
+#red{
+  border-top-color:  #ff0000;
+}
+#yellow{
+  border-top-color: #ffff00;
+}
+#orange{
+  border-top-color: #ffa500;
+}
+#green{
+  border-top-color: #008000;
+}
+#blue{
+  border-top-color: #0000ff;
+}
+#indingo{
+  border-top-color: #4b0082;
+}
+#violet{
+  border-top-color: #ee82ee;
+}
+
+
